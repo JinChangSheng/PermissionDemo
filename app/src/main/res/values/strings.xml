@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionDemo</string>
+    <string name="permission_camera">在设置－应用－爱读－权限中开启相机权限，以正常使用爱读照相功能</string>
+</resources>
